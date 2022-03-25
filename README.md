@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @koukirocks
-- 👀 I’m interested in C++
-- 🌱 I’m currently learning Basic Algorithms and Game Making!
-- 💞️ I’m looking to collaborate on ... ummm....
-- 📫 How to reach me Email : jerry970301@gmail.com
+- 👀 I’m interested in C++, Kivy, and Unity!
+- 🌱 I’m currently learning Basic Algorithms, Game Making, and UI designing!
+- 💞️ I’m looking to collaborate on making a small scale RPG Game.
+- 📫 How to reach me Email : okoukirocks@gmail.com
 
 <!---
 koukirocks/koukirocks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
